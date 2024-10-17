@@ -1,5 +1,7 @@
 ## Movie Recommender System
 
+[Live Server ](https://movierecommendersystem-303cb052fdba.herokuapp.com/)
+
 ### Overview
 
 The Movie Recommender System suggests movies based on user preferences using a content-based recommendation approach. The system analyzes movie attributes to recommend similar films. It's implemented with a focus on movie genres, keywords, cast, and crew to provide accurate recommendations.
